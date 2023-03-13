@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
  
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
