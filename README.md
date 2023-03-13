@@ -50,11 +50,7 @@ tools 🛠
 
 ![image](https://user-images.githubusercontent.com/127731945/224665937-3170fb28-1afe-4c9d-9da5-594e399e8476.png)
 ![image](https://user-images.githubusercontent.com/127731945/224665974-47e059f8-8f3b-4391-ae3e-0cb59708de86.png)
-![image](https://user-images.githubusercontent.com/127731945/224665316-fa8d5de6-f34f-4901-8055-43da073fef5f.png)![image](https://user-images.githubusercontent.com/127731945/224665996-1a12a58f-91ff-4e55-a32e-3066f1a9bb1f.png)
-![image](https://user-images.githubusercontent.com/127731945/224665316-fa8d5de6-f34f-4901-8055-43da073fef5f.png)
 ![image](https://user-images.githubusercontent.com/127731945/224666080-1c6cb7d9-c5e9-4403-b8b4-4232ccf8dd53.png)
-
 ![image](https://user-images.githubusercontent.com/127731945/224666102-eb2cb68f-6f13-4ea2-861d-50257ff6557f.png)
-
 ![image](https://user-images.githubusercontent.com/127731945/224666119-9d3c9166-431a-4deb-a28d-cf0b4e6f3ea0.png)
 
