@@ -24,3 +24,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Technologies 💻 
+
+
+![image](https://user-images.githubusercontent.com/127731945/224665270-865cf2c3-5fbf-42c1-90a1-69c7e7a68f36.png)
+![image](https://user-images.githubusercontent.com/127731945/224665316-fa8d5de6-f34f-4901-8055-43da073fef5f.png)
+![image](https://user-images.githubusercontent.com/127731945/224665347-42e6a082-af9c-4fde-8957-c0bce79e2aed.png)
+![image](https://user-images.githubusercontent.com/127731945/224665376-5dac77b8-59bf-4097-8c72-e17e4c667122.png)
+![image](https://user-images.githubusercontent.com/127731945/224665407-591f1147-c916-4755-b0d7-fd4fb3b74acc.png)
+![image](https://user-images.githubusercontent.com/127731945/224665426-4fa6cbc4-1d84-4604-bcab-49103155c4fe.png)
+![image](https://user-images.githubusercontent.com/127731945/224665460-806c4d9e-947c-453c-b750-6e99fb6828ae.png)
+![image](https://user-images.githubusercontent.com/127731945/224665484-94e19820-b76d-442c-8167-e74d93d17dec.png)
+![image](https://user-images.githubusercontent.com/127731945/224664746-6af406fa-c101-48ad-9acc-b63f92a96bf0.png)
+
+
+
+
+
+
+
+ 
+tools 🛠
+
+
+![image](https://user-images.githubusercontent.com/127731945/224665937-3170fb28-1afe-4c9d-9da5-594e399e8476.png)
+![image](https://user-images.githubusercontent.com/127731945/224665974-47e059f8-8f3b-4391-ae3e-0cb59708de86.png)
+![image](https://user-images.githubusercontent.com/127731945/224665316-fa8d5de6-f34f-4901-8055-43da073fef5f.png)![image](https://user-images.githubusercontent.com/127731945/224665996-1a12a58f-91ff-4e55-a32e-3066f1a9bb1f.png)
+![image](https://user-images.githubusercontent.com/127731945/224665316-fa8d5de6-f34f-4901-8055-43da073fef5f.png)
+![image](https://user-images.githubusercontent.com/127731945/224666080-1c6cb7d9-c5e9-4403-b8b4-4232ccf8dd53.png)
+
+![image](https://user-images.githubusercontent.com/127731945/224666102-eb2cb68f-6f13-4ea2-861d-50257ff6557f.png)
+
+![image](https://user-images.githubusercontent.com/127731945/224666119-9d3c9166-431a-4deb-a28d-cf0b4e6f3ea0.png)
+
