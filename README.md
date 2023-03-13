@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 ![image](https://user-images.githubusercontent.com/127731945/224658798-b949e6fa-7e6d-4e66-a07f-3ccfba8ff383.png)
 ![image](https://user-images.githubusercontent.com/127731945/224658652-3e015544-3713-4f89-8901-c691816189de.png)
 ![image](https://user-images.githubusercontent.com/127731945/224658710-a8aba697-cd55-4648-af63-f509b8b4ef78.png)
