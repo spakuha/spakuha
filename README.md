@@ -25,32 +25,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Technologies 💻 
-
-
-![image](https://user-images.githubusercontent.com/127731945/224665270-865cf2c3-5fbf-42c1-90a1-69c7e7a68f36.png)
-![image](https://user-images.githubusercontent.com/127731945/224665316-fa8d5de6-f34f-4901-8055-43da073fef5f.png)
-![image](https://user-images.githubusercontent.com/127731945/224665347-42e6a082-af9c-4fde-8957-c0bce79e2aed.png)
-![image](https://user-images.githubusercontent.com/127731945/224665376-5dac77b8-59bf-4097-8c72-e17e4c667122.png)
-![image](https://user-images.githubusercontent.com/127731945/224665407-591f1147-c916-4755-b0d7-fd4fb3b74acc.png)
-![image](https://user-images.githubusercontent.com/127731945/224665426-4fa6cbc4-1d84-4604-bcab-49103155c4fe.png)
-![image](https://user-images.githubusercontent.com/127731945/224665460-806c4d9e-947c-453c-b750-6e99fb6828ae.png)
-![image](https://user-images.githubusercontent.com/127731945/224665484-94e19820-b76d-442c-8167-e74d93d17dec.png)
-![image](https://user-images.githubusercontent.com/127731945/224664746-6af406fa-c101-48ad-9acc-b63f92a96bf0.png)
-
-
-
-
-
-
-
+---
  
-tools 🛠
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
 
 
-![image](https://user-images.githubusercontent.com/127731945/224665937-3170fb28-1afe-4c9d-9da5-594e399e8476.png)
-![image](https://user-images.githubusercontent.com/127731945/224665974-47e059f8-8f3b-4391-ae3e-0cb59708de86.png)
-![image](https://user-images.githubusercontent.com/127731945/224666080-1c6cb7d9-c5e9-4403-b8b4-4232ccf8dd53.png)
-![image](https://user-images.githubusercontent.com/127731945/224666102-eb2cb68f-6f13-4ea2-861d-50257ff6557f.png)
-![image](https://user-images.githubusercontent.com/127731945/224666119-9d3c9166-431a-4deb-a28d-cf0b4e6f3ea0.png)
+---
 
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
